@@ -1,6 +1,6 @@
-# Kiyomi-WebSite
+# Old Nawashu Website
 ***
-It's the new website for [Kiyomi](https://nawashu.xyz) .
+It's the old website of [Nawashu](https://nawashu.xyz) .
 
 ## Author
 ***
